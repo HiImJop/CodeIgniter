@@ -1,0 +1,37 @@
+    body hgroup div
+    {
+        margin:0px;
+        padding:0px;
+    }
+    .leftside
+    {
+       width:200px;
+       height:500px;
+       margin-top:80px;
+       margin-left:80px;
+    }
+
+    .container img
+    {
+      
+        width:200px;
+        height:200px;
+        border-radius:100%;
+        box-shadow: 0px 2px 1px;
+    }
+    .guidebox
+    {
+        width:200px;
+        height:150px;
+        margin-top:30px;
+    }
+    .centerside
+    {
+        width:550px;
+        height:200px;
+        margin-top:-510px;
+        position:relative;
+        margin-left:340px;
+        
+    }
+    
